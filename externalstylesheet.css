@@ -1,0 +1,48 @@
+	body{
+
+        background-image:url(background1.jpg);
+		background-repeat:repeat-y;
+		background-size:100% 100%;	
+	}
+
+	#main{
+		font-weight:bold;
+		font-size:2vw;
+		color:black;
+		width:100%;
+		border:4px solid #7581C6;
+		text-align:center;
+		background-color:#C9E2EE;
+		}
+
+	
+	a:link{
+		color: black;
+	}
+	a:visited{
+		color:blue;
+	}
+	a:active{
+		font-style:italic;
+	}
+	a:hover{
+		color:grey;
+	}
+
+	 #aboutme{
+	 	font-weight:bold;
+		font-size:2vw;
+		color:black;
+		width:90%;
+		border:4px solid #7581C6;
+		text-align:center;
+		background-color:#C9E2EE;
+		position:absolute;
+		top:15%;
+		left:5%;
+	}
+	
+	td:hover{
+		background-color:#98D7F5;
+	}
+	
